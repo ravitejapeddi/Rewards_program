@@ -8,7 +8,7 @@
  ![screenshot](https://github.com/ravitejapeddi/Rewards_program/blob/master/Images/Click%20On%20rewards%20controller.JPG)
  ### You can see the post http method and structure of the controller.
   * Click on **Try iT**
-  ![screenshot](https://github.com/ravitejapeddi/Rewards_program/blob/master/Images/Click%20on%20tryit%20enter%20json%20data%20in%20Data%20set.JPG)
+  ![screenshot](https://github.com/ravitejapeddi/Rewards_program/blob/master/Images/You%20can%20Jsondata.JPG)
   ### Enter the Jsondata in transactions body.
   ![screenshot](https://github.com/ravitejapeddi/Rewards_program/blob/master/Images/Click%20on%20tryit%20enter%20json%20data%20in%20Data%20set.JPG)
   ### After the copy and paste the Jsondata from jsondataset,Click on Execute and see the ouput as below.
