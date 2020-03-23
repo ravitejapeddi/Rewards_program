@@ -4,7 +4,7 @@
  ![screenshot](https://github.com/ravitejapeddi/Rewards_program/blob/master/Images/Swagger%20ui.JPG)
 
  **This link redirects to swagger,there can see the controller and model**.
- ### * click on Controllers.
+ ### click on Controllers.
  ![screenshot](https://github.com/ravitejapeddi/Rewards_program/blob/master/Images/Click%20On%20rewards%20controller.JPG)
  ### You can see the post http method and structure of the controller.
   * Click on **Try iT**
